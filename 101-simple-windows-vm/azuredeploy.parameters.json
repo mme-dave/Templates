@@ -3,16 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "dsstore2"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "!zzdsAzure!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "ds1234"
+    },
+    "location": {
+      "value": "West US"
+    },
+    "sizeofDiskInGB": {
+      "value": "20"
     }
   }
 }
